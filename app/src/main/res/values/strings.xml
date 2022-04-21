@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoMVVM</string>
+    <string name="get_data">get data</string>
+
+    <string name="country">Country: %s</string>
+    <string name="capital">capital: %s</string>
+</resources>
